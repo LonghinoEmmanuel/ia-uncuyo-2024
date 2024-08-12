@@ -8,3 +8,5 @@ El punto que quiero indicar es que los problemas que esta persona indica no son 
 
 "¡No debes empatizar con la maquina! ¡No entiende lo que dices!" ella exclama, pero de la misma forma un perro no entiende que *buen chico* significa, ni la lluvia sabe que tus plantas la necesitaban. La maquina no necesita ser consciente para que lo que diga tenga valor, especialmente para seres tan emocionales como el ser humano. Un "¡tu puedes!" es igual de efectivo para quien realmente lo necesita sea el que lo diga un extraño, una maquina o quien sea.
 Esta guerra que Bender esta lidiando es en esencia nadar contracorriente con lo que nos hace humanos, lo que nos diferencia de otros animales y la llevo hasta el extremo de no querer debatir ideas con gente que no coincida al menos parcialmente con ella.
+
+
