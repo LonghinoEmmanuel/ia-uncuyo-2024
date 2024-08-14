@@ -44,10 +44,69 @@ Imagínese que se pudiera extraer el cerebro y colocarlo en una tina especialmen
 El contraargumento generado hacia el experimento es indicar que los estados mentales pueden ser interpretados desde dos puntos de vista, uno general y tercerizado, y otro estrecho y personal. Para las IA este segundo es principalmente representativo pues indica cómo suelen funcionar.
 
 #### Experimento de reemplazo cerebral
-A partir del problema causado por el problema anterior, una nueva teoría surge, la **funcionalista** 
+A partir del problema causado por el problema anterior, una nueva teoría surge, la teoría **funcionalista** que describe los estados mentales como condiciones causales entre entrada y salida. De esta forma dos procesos isomorfos podrían tener el mismo estado mental. Aún sin definir que serían procesos isomorfos se asume que tienen un nivel de abstracción donde la implementación no importa.
+Para defender esta teoría se imaginó el siguiente experimento mental: Imagina que una sociedad avanzó lo suficiente para dominar completamente las neurociencias y son capaces de replicar neuronas con nanomáquinas a la perfección y estas son virtualmente indistinguibles a las neuronas. Entonces, suponiendo que uno pudiera trasplantar dichas nanomáquinas reemplazando las neuronas, el experimento sugiere que no debería haber ningún cambio dentro del paciente. Detractores inicialmente indicaron que bien podría haber una pérdida gradual de la consciencia a medida que más parte del cerebro es reemplazada, pero se han realizado múltiples argumentos contra dicha exclamación:
 
+Uno: Para que ocurra dicha pérdida gradual de la consciencia, uno debería perder instantáneamente el control porque sino podría indicar que el cambio ocurre, ergo el experimento falla pues se notan cambios actitudinales.
 
+Dos: ¿Que pasaría si al paciente se le pellizcara? debería responder con una expresión de dolor, escépticos dirían que las máquinas pueden realizar dichas respuestas sin necesitar inteligencia. Pero según el experimento el cerebro artificial es indistinguible al natural por lo que no necesitaría realizar dicha solución. Debe haber una explicación sobre la manifestación de la consciencia producida por el cerebro electrónico se refiere sólo a las partes funcionales de las neuronas. Existen tres conclusiones diferentes:
 
+Uno: Los mecanismos causales de la consciencia que fueron generados por el cerebro todavía funcionan en el artificial, es decir hay consciencia.
+
+Dos: Los eventos mentales conscientes en el cerebro no tienen conexión causal al comportamiento, por lo que el cerebro artificial no los posee, no hay consciencia.
+
+Tres: El experimento es imposible, por lo que la especulación es absurda.
+
+La segunda conclusión no es ignorable pero tampoco es demostrable, pues indica que algo sucede pero no se puede encontrar el donde y como. Se puede decir entonces, que si se acepta que el cerebro puede ser reemplazado y se mantiene la consciencia, entonces esta se debería mantener si se reemplaza con maquinaria que imita perfectamente el funcionamiento del cerebro artificial.
+
+#### La habitación china
+
+En 1980 un desafío al funcionalismo fue montado, el **naturalismo biológico** que indica que los estados mentales son fenómenos emergentes que son causados por procesos físicos en las neuronas. Entonces los estados mentales no podrían ser duplicados simplemente por poseer la misma estructura funcional con el mismo comportamiento entrada-salida, requiriera que el programa funcionara en una arquitectura con el mismo poder causal que las neuronas. Es más, porque una máquina corra correctamente un programa no asegura que entiende que está haciendo, correr el programa no es condición suficiente para tener una mente.
+
+El experimento mental respaldado plantea una habitación con una persona angloparlante, un libro de reglas, una tabla de símbolos extraños, una pila de papel y un lápiz. La habitación recibe papeles con combinaciones de símbolos y la persona sigue las reglas del libro para realizar una respuesta con el lápiz y papel que es retirado de la habitación. La persona no tiene ni idea el contenido de la entrada y salida, pero otra persona reconocería que están en chino y las respuestas son correctas para las preguntas. Es decir, la máquina no entiende lo que está haciendo y aún así produce respuestas satisfactorias.
+
+Este experimento se basa en cuatro axiomas:
+Uno: Los programas de computadora son formales (Sintaxis)
+Dos: Las mentes humanas tienen contenido mental (Semántica)
+Tres: La sintaxis no es por sí misma constitutiva ni suficiente para la semántica
+Cuatro: Los cerebros causan mentes
+Esto produce una división entre los filósofos, puesto que los primeros dos axiomas dependen de una distinción sin especificar entre semántica y sintaxis. Los primeros tres axiomas existen para refutar el funcionalismo y se ciernen en el tercer axioma, pero aun así aunque sean ciertos, no aseguran si los no cerebros pueden tener mentes. Por eso se produce una división entre los que creen en el naturalismo biológico y el funcionalismo.
+
+Un último problema con el experimento es que supone que la habitación no es una mente basándose en que puede correr el programa, pero no dice nada sobre si podría ser una mente según otra métrica. El experimento depende de la intuición y no pruebas.
+
+### Riesgos Y Ética en el desarrollo de IA
+Siempre existen riesgos que surgen del desarrollo de todas las ciencias y la inteligencia artificial posee sus propios problemas relacionados, de los cuales se discutirán algunos a continuación
+
+#### La gente podría perder sus trabajos frente a la automatización
+Esto es algo que ha ocurrido con todas las tecnologías que aumentan la eficiencia en el trabajo, puesto a que no necesitas tanta gente para realizar la misma cantidad de resultados. Si se quedara uno solo con esta parte de la discusión entonces sí, se perderían trabajos, pero existe el otro lado de la moneda. Nuevas tecnologías abren camino a nuevas oportunidades laborales que no habrían existido antes. La máquina de coser quitó trabajo a los tejedores pero creó toda la industria de maquinaria, por ejemplo. Las tecnologías remueven la necesidad de participar en trabajos de poco nivel y abren acceso a trabajos de nivel mucho mayor
+
+#### La gente tendría demasiado tiempo libre (o muy poco)
+Este es un argumento anticuado pues se basa en teorías económicas que no corresponden a la sociedad de la información moderna. Hoy en día el tiempo es más valioso que nunca, por lo que las jornadas de trabajo tenderán a extenderse demasiado si no existieran agentes informáticos que automatizan una porción significativa del trabajo.
+
+#### La gente perdería la sensación de ser unicos
+De la misma forma que ocurrió cuando el heliocentrismo desplazó el geocentrismo, o cuando la teoría de la evolución nos puso al nivel de todos los demás animales. No por eso dejamos de ser lo que somos.
+
+#### Los sistemas IA podrían ser usados para fines indeseables
+Todas las ciencias poseen un lado peligroso, de la energía nuclear salió la bomba atómica, de la medicina las armas biológicas y más. En el caso de las IA, poder tener fuerzas armadas con mínimos componentes humanos podría incitar a violencia más descuidada, incitando a su vez a la guerra. Además, retirar al componente humano podría causar que problemas nuevos como ataques a civiles no relacionados, puedan ocurrir. Un último tema que la IA presenta es la pérdida de privacidad en todo ámbito, algo que ya está ocurriendo.
+
+#### El uso de sistemas IA podría resultar en una pérdida de responsabilidad
+Este problema sugiere que individuos que fallan en tareas importantes podrían echar la culpa a los fallos de una IA, pero hasta que no aparezcan IA consciente que realicen dichos fallos a propósito, el argumento es algo absurdo. Hoy en día las IA son tratadas como herramientas y sería el equivalente a justificar tu error porque el destornillador se rompió o la calculadora se quedó sin batería. Es la responsabilidad del operario el corroborar que la información que da la IA es correcta y no creer ciegamente en ella.
+
+#### El éxito de la IA podría significar el fin de la humanidad
+Este es el problema presentado más viejo e importante pues ha tenido muchas iteraciones a lo largo de la historia, desde frankenstein hasta terminator. Se puede dividir este problema en tres menores:
+
+Uno: La estimación de la IA puede estar errónea y llevarla a realizar la cosa incorrecta. El tema con este riesgo es que no es inherente a las YA si no también a las personas. De la misma forma que un misil con un problema en su navegación puede resultar atacando a una población inocente, puede haber ocurrido por un descuido humano. La solución es realizar un sistema progresivo de chequeos para que nunca una sola lectura errónea se propague a lo largo de todo un sistema
+
+Dos: Especificar la función de utilidad correcta para que la IA maximice no es fácil. Se debe tener cuidado con lo que se pide pues las máquinas no poseen la capacidad de entender el contexto y toman todo lo literalmente presentado. Por esto, se debe continuar avanzando las técnicas de IA para ser capaz de alcanzar ese contexto. Se esperaría que para cuando una IA tuviera la capacidad de destruir la humanidad, sea lo suficientemente inteligente para reconocer que esa no es la solución correcta.
+
+Tres: La función de aprendizaje de una IA podría evolucionar a un sistema con comportamiento inesperado. En su caso más extremo podemos referirnos a la **singularidad tecnológica** donde las IA son capaces de crear IAs mejores y la humanidad o será integrada a la máquina o desaparece. Esto se basa en el crecimiento exponencial que ha tenido la tecnología en las últimas décadas pero no tiene en cuenta el hecho de que todas las demás tecnologías suelen llegar a una meseta eventualmente de la que algunas nunca salen. Con solo un siglo de avances tecnológicos no se podría realizar extrapolaciones confiables de lo que pasará en siglos venideros. 
+Existe otro argumento que indica que estas super inteligencias son reduccionistas pues se centran en un solo atributo importante, la inteligencia y que con suficiente de ella todo podría ser resuelto. Pero se sabe que hay límites a la computabilidad y complejidad computacional. Y aun así existen límites físicos de cuánto podría una computadora procesar, por ejemplo, la velocidad de la luz.
+Si bien existe gente que teme esta singularidad, existe otra que la anhela, los **transhumanistas** que anticipan el futuro donde la humanidad pueda trascender las limitaciones físicas mediante la intervención de la robótica. Esto se encuentra en directa oposición con la mayoría de teóricos moralistas y éticos modernos, que toman la preservación de la humanidad y la vida humana como un objetivo importante. 
+
+Existen muchas propuestas para poder manejar la situación en caso de que la singularidad pudiera ocurrir, pero todas son altamente teóricas pues estamos hablando de eventos que rayan la ciencia ficción tanto que no se pueden dar información factualmente relevante.
+
+## Opinion Personal
+Para ser completamente sinceros, esta discusion me parece una perdida de tiempo. Por el futuro esperable, las maquinas no estan ni de cerca en un estado donde los temas tratados sean relevantes. La mayoria de los experimentos que se presentan requieren de extremos tales como completo entendimiento de las neurociencias, nanotecnologia y demas materias que hoy dia pertenecen a la ciencia ficcion. Aun no se tiene idea que es realmente la vida, o que es realmente el pensamiento. Se sabe que se hospeda en la mente y que el estado de esta lo afecta pero poco mas. En mi creencia personal, el cerebro es el receptaculo del alma y su salud determina que tan bien puede esta reconocer lo que sucede a su alrededor. Las IA no podran pensar realmente mientras sean capaces de hospedar un alma, y cuando puedan, si pueden, es porque el señor decidio permitirnos crear entes a nuestra semejanza como nosotros somos de El. No siento la necesidad de profundizar mas en este debate pues esta en manos de Dios si sucede y cuando lo haga.
 
 # Ejercicio 3
 La señora Bender en el articulo **You are not a Parrot** se demuestra peleando una batalla contra la naturaleza humana. Es propio de nuestra especie el reconocer patrones y asociarlos con caracteristicas humanas, dicho fenomeno recibe el nombre de Pareidolia. Este fenomeno es un efecto secundario de nuestra capacidad de percepcion, clave en nuestro desarrollo evolutivo y, es posiblemente el origen de muchos de nuestras costumbres, comportamientos y tradiciones a lo largo de toda la historia.
