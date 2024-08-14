@@ -1,5 +1,5 @@
 # Ejercicio 1
-## Cimientos Filosóficos
+## Fundamentos Filosóficos
 A la hora de tratar la inteligencia artificial, existen temas a tratar más allá de las secciones prácticas e ingeniería, pues existe una fuerte componente filosófica que realiza la pregunta *¿Cómo piensa la mente? ¿Podría una máquina imitarlo, y si es así entonces la máquina también pensaría? ¿Qué significa eso para la vida humana y nuestra ética moral?*
 
 Para tratar el tema se realizó dos hipótesis distinguiendo **IA débil** como aquella que imita inteligencia y **IA fuerte** como aquella que posee inteligencia y piensa realmente. Para la mayor parte de desarrolladores estas cuestiones filosóficas son irrelevantes pues la IA es tratada como una herramienta y nada más, mientras funcione alcanza. Pero igualmente todos deben tener en cuenta la parte ética de su propio trabajo.
