@@ -105,8 +105,13 @@ Si bien existe gente que teme esta singularidad, existe otra que la anhela, los 
 
 Existen muchas propuestas para poder manejar la situación en caso de que la singularidad pudiera ocurrir, pero todas son altamente teóricas pues estamos hablando de eventos que rayan la ciencia ficción tanto que no se pueden dar información factualmente relevante.
 
+## Mapa Mental
+![alt text](tp1-fundamentos/MapaMental.png)
+
 ## Opinion Personal
 Para ser completamente sinceros, esta discusion me parece una perdida de tiempo. Por el futuro esperable, las maquinas no estan ni de cerca en un estado donde los temas tratados sean relevantes. La mayoria de los experimentos que se presentan requieren de extremos tales como completo entendimiento de las neurociencias, nanotecnologia y demas materias que hoy dia pertenecen a la ciencia ficcion. Aun no se tiene idea que es realmente la vida, o que es realmente el pensamiento. Se sabe que se hospeda en la mente y que el estado de esta lo afecta pero poco mas. En mi creencia personal, el cerebro es el receptaculo del alma y su salud determina que tan bien puede esta reconocer lo que sucede a su alrededor. Las IA no podran pensar realmente mientras sean capaces de hospedar un alma, y cuando puedan, si pueden, es porque el señor decidio permitirnos crear entes a nuestra semejanza como nosotros somos de El. No siento la necesidad de profundizar mas en este debate pues esta en manos de Dios si sucede y cuando lo haga.
+
+# 
 
 # Ejercicio 3
 La señora Bender en el articulo **You are not a Parrot** se demuestra peleando una batalla contra la naturaleza humana. Es propio de nuestra especie el reconocer patrones y asociarlos con caracteristicas humanas, dicho fenomeno recibe el nombre de Pareidolia. Este fenomeno es un efecto secundario de nuestra capacidad de percepcion, clave en nuestro desarrollo evolutivo y, es posiblemente el origen de muchos de nuestras costumbres, comportamientos y tradiciones a lo largo de toda la historia.
